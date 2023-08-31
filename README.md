@@ -155,7 +155,8 @@ imshow(uint8(out));
 
 ![Untitled](%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%204228425148ad426eb4739a1049af0b93/Untitled%201.png)
 
-![Untitled](%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%204228425148ad426eb4739a1049af0b93/Untitled%202.png)
+![Untitled](https://github.com/5binius/vision/blob/main/Untitled%201.png?raw=true)
+
 
 # 고찰
 
